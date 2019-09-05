@@ -1,8 +1,7 @@
-name = 'ssdddcxzcdsfsdf'
+# name = input('What is your name? ')
+# color = input('what is your favorite color? ')
+# print(name + ' likes '+ color)
 
-if len(name) < 3:
-    print('short name')
-elif len(name) > 10:
-    print('long')
-else:
-    print('ok')
+weight_pound = input('Weight in pounds: ')
+weight_kg = int(weight_pound) * 0.453592
+print(weight_kg)
