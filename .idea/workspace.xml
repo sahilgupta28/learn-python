@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="484d51d8-9870-43be-b133-aa9177a336da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/shipping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tupple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-    </list>
+    <list default="true" id="484d51d8-9870-43be-b133-aa9177a336da" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +21,8 @@
   <component name="ProjectId" id="1QJLO3nSxWCdYNcAbJtUruilbyL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
