@@ -17,3 +17,7 @@ print(5**2) #return power
 print("-"*90) #Print strint 90 times
 
 print('hello '+'world') #concatination
+
+print(10e6) #exponential
+
+print(1 - 0.9) #don't return 0.1
